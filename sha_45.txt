@@ -1,1 +1,2 @@
 git is confusing!
+woah git commit is awesomegit log
